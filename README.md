@@ -1,7 +1,18 @@
 # Netflix Business Model Analysis Project:
 
 ## Objective: Analyze Netflix's business model to understand content trends, demographics, and regional preferences to provide strategic recommendations.
+## About the Dataset:
+Netflix is one of the most popular media and video streaming platforms, offering over 10,000 movies and TV shows. As of mid-2021, they had over 222 million subscribers globally. This tabular dataset includes listings of all movies and TV shows available on Netflix, along with details such as cast, directors, ratings, release year, duration, and more.
 
+## Business Problem:
+Analyze the data and generate insights that could help Netflix decide which types of shows/movies to produce and how to grow the business in different countries.
+
+## Libraries Used:
+
+NumPy
+Pandas
+Matplotlib
+Seaborn
 ## Data Collection: 
 Gathered and cleaned Netflix dataset using Python (Pandas) to ensure accuracy in subsequent analysis.
 
