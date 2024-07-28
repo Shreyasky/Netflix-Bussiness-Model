@@ -2,14 +2,19 @@
 
 ## Objective: Analyze Netflix's business model to understand content trends, demographics, and regional preferences to provide strategic recommendations.
 
-## Data Collection: Gathered and cleaned Netflix dataset using Python (Pandas) to ensure accuracy in subsequent analysis.
+## Data Collection: 
+Gathered and cleaned Netflix dataset using Python (Pandas) to ensure accuracy in subsequent analysis.
 
 ## Data Analysis:
 
-### Content Trends: Examined trends in content type (movies, TV shows) and genre popularity over the years. Identified shifts in production focus and emerging genres.
-### Demographic Insights: Analyzed viewer demographics, including age groups and gender preferences. Determined which demographic segments are most engaged with specific types of content.
-### Regional Preferences: Assessed content consumption patterns across different regions. Identified regional preferences for certain genres and types of content.
-### Visualization: Utilized Matplotlib and Seaborn to create insightful visualizations, including:
+### Content Trends:
+Examined trends in content type (movies, TV shows) and genre popularity over the years. Identified shifts in production focus and emerging genres.
+### Demographic Insights: 
+Analyzed viewer demographics, including age groups and gender preferences. Determined which demographic segments are most engaged with specific types of content.
+### Regional Preferences:
+Assessed content consumption patterns across different regions. Identified regional preferences for certain genres and types of content.
+### Visualization: 
+Utilized Matplotlib and Seaborn to create insightful visualizations, including:
 
 Time series plots of content trends.
 Demographic breakdowns by content type.
