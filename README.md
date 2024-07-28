@@ -13,6 +13,7 @@ NumPy
 Pandas
 Matplotlib
 Seaborn
+
 ## Data Collection: 
 Gathered and cleaned Netflix dataset using Python (Pandas) to ensure accuracy in subsequent analysis.
 
