@@ -10,8 +10,11 @@ Analyze the data and generate insights that could help Netflix decide which type
 ## Libraries Used:
 
 NumPy
+
 Pandas
+
 Matplotlib
+
 Seaborn
 
 ## Data Collection: 
